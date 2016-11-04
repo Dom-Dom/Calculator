@@ -11,6 +11,6 @@ int main()
     int b;
     scanf(a);
     scanf(b);
-    printf("%d\n",addition(a,b));
+    printf("l'addition de a et b vaut %d\n",addition(a,b));
     return 0;
 }
